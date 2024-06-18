@@ -1,4 +1,4 @@
-# frame_v1
+# FRAME UAV V1
 
 ### The main files for the FRAME UAV both electric and gas version.
 
